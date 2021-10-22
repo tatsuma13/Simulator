@@ -1,0 +1,70 @@
+.Simulator-title{
+    font-family: 筑紫A丸ゴシック;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.login-title{
+    font-family: 筑紫A丸ゴシック;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+
+.Simulator-login-input {
+    border-radius: 2px;
+    border: solid 1px #b2b2b2;
+    background-color: #ffffff;
+}
+
+.Simulator-check-label {
+    font-family: 筑紫A丸ゴシック;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.Simulator-require-input-label {
+    border-radius: 1px;
+    background-color: #e2001b;
+}
+
+.Simulator-require-input-label-text {
+    font-family: 筑紫A丸ゴシック;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.Simulator-submit-button {
+    font-family: 筑紫A丸ゴシック;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #b2b2b2;
+    color: #ffffff;
+    background-color: #2525C1;
+}
+
+.Simulator-login-text {
+    font-family: 筑紫A丸ゴシック;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #2525C1;
+}
