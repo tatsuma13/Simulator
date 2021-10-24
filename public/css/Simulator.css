@@ -1,3 +1,4 @@
+/*ログイン画面デザイン*/
 .Simulator-title{
     font-family: 筑紫A丸ゴシック;
     font-size: 30px;
@@ -11,12 +12,62 @@
     margin-top: 50px;
 }
 
+.Simulator-login-text {
+    font-family: 筑紫A丸ゴシック;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #2525C1;
+}
 
 .Simulator-login-input {
     border-radius: 2px;
     border: solid 1px #b2b2b2;
     background-color: #ffffff;
 }
+
+
+/*パスワード変更画面デザイン*/
+.password-title{
+    font-family: 筑紫A丸ゴシック;
+    font-size: 18px;
+}
+
+.password-text{
+    font-family: 筑紫A丸ゴシック;
+    font-size: 15px;
+
+}
+
+
+/*新規登録画面デザイン*/
+.register-title{
+    font-family: 筑紫A丸ゴシック;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.register-text{
+    font-family: 筑紫A丸ゴシック;
+    font-size: 12px;
+    text-align: center;
+
+}
+
+.Simulator-require-input-label {
+    border-radius: 1px;
+    background-color: #e2001b;
+}
+
+.form-group{
+    font-family: 筑紫A丸ゴシック;
+}
+
+
+
 
 .Simulator-check-label {
     font-family: 筑紫A丸ゴシック;
@@ -29,10 +80,7 @@
     color: #000000;
 }
 
-.Simulator-require-input-label {
-    border-radius: 1px;
-    background-color: #e2001b;
-}
+
 
 .Simulator-require-input-label-text {
     font-family: 筑紫A丸ゴシック;
@@ -58,13 +106,3 @@
     background-color: #2525C1;
 }
 
-.Simulator-login-text {
-    font-family: 筑紫A丸ゴシック;
-    font-size: 14px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    color: #2525C1;
-}
